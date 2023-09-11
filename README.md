@@ -3,7 +3,7 @@
 
 ## Stack:
 - <a href="https://www.typescriptlang.org/">TypeScript</a> - Linguagem de programação fortemente tipada que se baseia em JavaScript.
-- <a href="https://nestjs.com/">NestJS</a> - Framework progressivo para criação de servidores eficientes e escaláveis em <a href="http://nodejs.org">Node.js</a>
+- <a href="https://nestjs.com/">NestJS</a> - Framework progressivo para criação de servidores eficientes e escaláveis em <a href="http://nodejs.org">Node.js</a>.
 - <a href="https://www.mongodb.com/">MongoDB</a> - Banco de Dados não-relacional orientado a documentos.
 - <a href="https://mongoosejs.com/">Mongoose</a> - Solução Schema-Based para modelar o banco de dados da aplicação.
 - <a href="https://www.npmjs.com/package/bcrypt">bcrypt</a> - Lib para hashing e comparação de senhas e dados sensíveis de maneira segura.
